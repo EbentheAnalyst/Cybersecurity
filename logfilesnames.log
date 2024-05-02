@@ -1,0 +1,9 @@
+2024-05-01 08:00:00 - John Doe (Student ID: 123456) checked into school - Status: Present
+2024-05-01 08:10:00 - Jane Smith (Student ID: 789012) checked into school - Status: Present
+2024-05-01 08:30:00 - Alice Johnson (Student ID: 345678) checked into school - Status: Absent (Reason: Doctor's appointment)
+2024-05-01 09:00:00 - John Doe (Student ID: 123456) submitted assignment "Math Homework" - Status: Completed
+2024-05-01 09:30:00 - Bob Thompson (Student ID: 901234) checked into school - Status: Present
+2024-05-01 10:00:00 - Jane Smith (Student ID: 789012) left school early - Status: Early Dismissal
+2024-05-01 11:00:00 - Alice Johnson (Student ID: 345678) checked into school after appointment - Status: Present
+2024-05-01 12:00:00 - John Doe (Student ID: 123456) participated in extracurricular activity "Chess Club" - Status: Participated
+2024-05-01 13:00:00 - Bob Thompson (Student ID: 901234) submitted assignment "Science Project" - Status: Completed
